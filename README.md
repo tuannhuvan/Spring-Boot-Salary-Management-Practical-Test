@@ -23,19 +23,6 @@ Hệ thống **Quản lý Lương Nhân viên (Salary Management System)** là �
 
 ---
 
-## 📊 Cấu trúc Điểm Đánh giá Bài thi (15.0 Điểm)
-
-| STT | Hạng Mục Chấm Điểm | Nội Dung Chi Tiết | Điểm Tối Đa |
-| :---: | :--- | :--- | :---: |
-| **01** | **Cấu trúc & Entity** | Xây dựng Entity `User` (ID, Name, Age, Salary) & Package chuẩn MVC | **1.0 Điểm** |
-| **02** | **Data Validation** | Kiểm tra dữ liệu rỗng, số âm và ràng buộc trùng tên nhân viên | **2.0 Điểm** |
-| **03** | **Tìm kiếm (Search)** | Xử lý route lọc nhân viên theo từ khóa tên | **3.0 Điểm** |
-| **04** | **Thao tác CRUD** | Hoàn thiện đủ 4 chức năng Create, Read, Update, Delete | **6.0 Điểm** |
-| **05** | **Tích hợp View Engine** | Giao diện Thymeleaf + Bootstrap 5 + jQuery Reset Form | **3.0 Điểm** |
-| **--** | **TỔNG ĐIỂM** | | **15.0 / 15.0** |
-
----
-
 ## 🏗️ Kiến trúc & Công nghệ Sử dụng
 
 * **Backend Framework:** Spring Boot 3.x (Spring Web MVC, Spring Data JPA)
